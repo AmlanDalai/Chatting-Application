@@ -28,13 +28,16 @@ A real-time Java-based chat application using TCP/IP socket programming and mult
 
 
 💡 Future Enhancements
-Group chat functionality
 
-End-to-end encryption
 
-GUI improvements with JavaFX or Swing components
+-Group chat functionality
+-End-to-end encryption
+-GUI improvements with JavaFX or Swing components
+-Online deployment over internet using sockets or WebSockets
 
-Online deployment over internet using sockets or WebSockets
+
+
+---
 
 
 
